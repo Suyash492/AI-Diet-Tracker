@@ -1,0 +1,6 @@
+streamlit
+gspread
+python-dotenv
+openai
+pandas
+streamlit-cookies-manager
